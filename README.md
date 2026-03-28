@@ -43,7 +43,7 @@ That's it. The widget fetches data from the QRCodeFYI API and renders with full 
 | `data-qrcodefyi` | spec, compare, features, glossary, faq, guide, search, [tools] | required | Widget type |
 | `data-slug` | e.g. "types" | — | Entity slug from the QRCodeFYI database |
 | `data-theme` | light, dark, sepia, auto | light | Visual theme (`auto` follows OS preference) |
-| `data-style` | technical, modern | technical | Widget design style |
+| `data-styleVariant` | technical, modern | technical | Widget design style |
 | `data-size` | default, compact, large | default | Widget size |
 | `data-placeholder` | any string | "Search QR Code Types…" | Search box placeholder |
 
