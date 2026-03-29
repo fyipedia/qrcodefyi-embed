@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# QRCodeFYI Embed Widget
+# Main site: https://qrcodefyi.com
+# Widget docs: https://widget.qrcodefyi.com
+# npm: https://www.npmjs.com/package/qrcodefyi-embed
