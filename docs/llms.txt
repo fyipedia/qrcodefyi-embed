@@ -1,0 +1,28 @@
+# QRCodeFYI Embed Widget
+
+> Embeddable QRCodeFYI widgets for any website. Zero dependencies, Shadow DOM isolation, 4 themes (light/dark/sepia/auto).
+
+## Quick Start
+
+Add to any HTML page:
+- Script: <script src="https://cdn.jsdelivr.net/npm/qrcodefyi-embed@1/dist/embed.min.js"></script>
+
+## Links
+
+- Main site: https://qrcodefyi.com
+- Widget docs: https://widget.qrcodefyi.com
+- npm: https://www.npmjs.com/package/qrcodefyi-embed
+- GitHub: https://github.com/fyipedia/qrcodefyi-embed
+- API: https://qrcodefyi.com/developers/
+
+## Tag FYI Widget Family
+
+- [BarcodeFYI Widget](https://widget.barcodefyi.com)
+- [NFCFYI Widget](https://widget.nfcfyi.com)
+- [BLEFYI Widget](https://widget.blefyi.com)
+- [RFIDFYI Widget](https://widget.rfidfyi.com)
+- [SmartCardFYI Widget](https://widget.smartcardfyi.com)
+
+## Part of FYIPedia
+
+Open-source developer tools ecosystem — https://fyipedia.com
